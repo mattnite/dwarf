@@ -1,0 +1,13 @@
+.{
+    .name = .dwarf,
+    .version = "0.0.1",
+    .fingerprint = 0xacb5c0bb86e4d983,
+    .minimum_zig_version = "0.15.2",
+    .paths = .{
+        "README.md",
+        "LICENSE",
+        "build.zig",
+        "build.zig.zon",
+        "src",
+    },
+}
